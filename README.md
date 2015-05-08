@@ -15,4 +15,6 @@ Because I like use the **markdown** to write, and the GitHub support it very wel
 All I need to do is write some Homepage or something, to provide entry for all my blogs(You guess right, 
 all the blogs are written in markdown).
 
+[Markdown Mode Extension for VisualStudio](https://visualstudiogallery.msdn.microsoft.com/0855e23e-4c4c-4c82-8b39-24ab5c5a7f79) is very suitable for this task.
+
 
